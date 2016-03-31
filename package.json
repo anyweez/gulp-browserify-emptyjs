@@ -1,0 +1,23 @@
+{
+  "name": "gulp-browserify-emptyjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anyweez/gulp-browserify-emptyjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anyweez/gulp-browserify-emptyjs/issues"
+  },
+  "homepage": "https://github.com/anyweez/gulp-browserify-emptyjs#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browser": "^1.1.1"
+  }
+}
